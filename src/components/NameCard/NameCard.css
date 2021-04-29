@@ -1,0 +1,16 @@
+.result-name-card{
+    color: #efefef;
+    background: #282d4f;
+    margin: 10px 15px;
+    min-width: 75px;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+.result-name-card:hover{
+    background: #4a05e9;
+}
+
+.result-name{
+    margin: 0;
+}

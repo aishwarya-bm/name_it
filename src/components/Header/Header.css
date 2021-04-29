@@ -1,0 +1,38 @@
+.head-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.head-image-expanded{
+    min-width: 250px;
+    max-width: 300px;
+}
+
+.head-image-contracted{
+    min-width: 50px;
+    max-width: 100px;
+}
+
+.head-image{
+    width: 300px;
+}
+
+.head-text{
+    font-family: cursive;
+    color : white;
+    font-size: 35px;
+}
+
+.head-text-expanded{
+    font-family: cursive;
+    color : white;
+    font-size: 35px;
+}
+
+.head-text-contracted{
+    font-family: cursive;
+    color : white;
+    font-size: 20px;
+}
